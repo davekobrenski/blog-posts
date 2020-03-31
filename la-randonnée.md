@@ -1,4 +1,4 @@
-C’est un dimanche matin à la fin de septembre. Toujours au lit, mes paupières sont encore lourdes. Bien que j’aie l’habitude de me lever tôt, j’étais très occupé toute la semaine durant, et du coup, je suis épuisé. J’ai très envie de faire la grasse matinée.
+<p class="lead">C’est un dimanche matin à la fin de septembre. Toujours au lit, mes paupières sont encore lourdes. Bien que j’aie l’habitude de me lever tôt, j’étais très occupé toute la semaine durant, et du coup, je suis épuisé. J’ai très envie de faire la grasse matinée.</p>
 
 Néanmoins, je me rends vite compte que la journée va avoir d’autres idées pour moi. Le soleil commence à rayonner fort dehors. Les oiseaux du matin se misent à faire un gros vacarme juste à l’extérieur de la fenêtre. À quelques centimètres, un gros chat noir me regarde fixement, avec des yeux qui semblent dire qu’il mourra certainement de faim si je resterai au lit même une minute de plus. Avec réticence, je me lève. De toute façon, c’est un beau matin, je me dis.
 
@@ -6,14 +6,14 @@ Après avoir nourri les pauvres chats affamés, je découvre que la boîte à ca
 
 Au café, je bavarde avec quelques amis, puis le barista, et ensuite une jolie dame qui m’a reconnu grâce au concert que j’ai donné dans la région l’autre jour. Je m’installe gaiement à une table à l’extérieur, mon café à la main. Le ciel est dégagé. Nichée au cœur des Montagnes blanches, je pense comment ma petite ville est charmante. Et comme la journée se révèle somptueuse, je ne peux pas m’empêcher de penser que cela serait une occasion parfaite d’entreprendre un périple dans les montagnes. Savourant la dernière goutte du café, un flot d’images me traversent l’esprit : des vallées, des belvédères, des sommets de montagnes. Tout à coup, passer un jour entier à flâner au gré de mes envies, dans des cadres majestueux, me semble exactement ce qu’il me faut.
 
-\<img src="https://github.com/davekobrenski/blog-posts/blob/master/158566782367f4c8c.jpg?raw=true"\>  
+<img src="https://github.com/davekobrenski/blog-posts/blob/master/158566782367f4c8c.jpg?raw=true">
 
 Il ne reste qu’à décider : quel chemin de randonnée ? J’ai tout mon temps. Une excursion d’un jour entier est tout à fait possible. En fait, la région offre un large éventail de randonnées pédestres. Je pourrais profiter des tronçons du sentier plus forestier le long du lac. Ou bien encore, je pourrais faire une rando le long de l’arête des montagnes, qui m’offrirait de belles vues sur le lac, et de magnifiques panoramas du paysage. Cependant, ce serait un sentier accidenté qui a 20 kilomètres de long, une traversée de sept montagnes. Serait-il un peu trop ambitieux ? Mes pensées tournent en boucle. Ce que je désire, c’est une immersion totale en pleine nature. Ça y est. Aujourd’hui, je déambulerai sur les sentiers, dans les montagnes ! J’aurai une aventure, un séjour dans la contrée sauvage.
 
 Avant de quitter le café, je mange un sandwich au bacon et des œufs, tout en élaborant mon plan. Le sentier a comme point de départ une allée le long d’un ruisseau, 30 minutes d’ici en voiture. Mais le trajet ne fait pas une boucle; c’est une traversée qui aboutit à 20 kilomètres du point de départ. Il va donc me falloir laisser ma voiture au bout du sentier, et je vais devoir faire du stop, avec mon sac à dos. Mais en cette saison, il n’y a que des touristes sur la route; quelles sont les chances de succès ? Je devrai tenter ma chance. Je suis prêt à m’élancer.
 
-\<hr class="sr-only"\>
-\<p class="divider"\>\<span class="flower db-deco"\>\</span\>\</p\>
+<hr class="sr-only">
+<p class="divider"><span class="flower db-deco"></span></p>
 
 Trente minutes plus tard, je me trouve sur la route, bordée par les rives verdoyantes du lac Squam. Je me mets à marcher le long de la route étroite, en attendant que la première voiture arrive. Après vingt minutes, personne n’est encore venu. On aurait dit qu’il n’y a personne sur la route aujourd’hui. Je continue à marcher à grands pas ; au moins je peux me rapprocher de ma destination en attendant. Il est encore tôt.
 
