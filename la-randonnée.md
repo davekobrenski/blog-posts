@@ -7,7 +7,7 @@ Après avoir nourri les pauvres chats affamés, je découvre que la boîte à ca
 Au café, je bavarde avec quelques amis, puis le barista, et ensuite une jolie dame qui m’a reconnu grâce au concert que j’ai donné dans la région l’autre jour. Je m’installe gaiement à une table à l’extérieur, mon café à la main. Le ciel est dégagé. Nichée au cœur des Montagnes blanches, je pense comment ma petite ville est charmante. Et comme la journée se révèle somptueuse, je ne peux pas m’empêcher de penser que cela serait une occasion parfaite d’entreprendre un périple dans les montagnes. Savourant la dernière goutte du café, un flot d’images me traversent l’esprit : des vallées, des belvédères, des sommets de montagnes. Tout à coup, passer un jour entier à flâner au gré de mes envies, dans des cadres majestueux, me semble exactement ce qu’il me faut.
 
 <img src="https://davekobrenski.com/blog-photos/158566782367f4c8c.jpg?raw=true" class="img-responsive">
-<span class="img-caption">Photo by <a href="https://unsplash.com/@krisatomic">Kris Atomic</a> on Unsplash</span>
+<span class="img-caption">Photo by <a href="https://unsplash.com/@krisatomic" class="external">Kris Atomic</a> on Unsplash</span>
 
 Il ne reste qu’à décider : quel chemin de randonnée ? J’ai tout mon temps. Une excursion d’un jour entier est tout à fait possible. En fait, la région offre un large éventail de randonnées pédestres. Je pourrais profiter des tronçons du sentier plus forestier le long du lac. Ou bien encore, je pourrais faire une rando le long de l’arête des montagnes, qui m’offrirait de belles vues sur le lac, et de magnifiques panoramas du paysage. Cependant, ce serait un sentier accidenté qui a 20 kilomètres de long, une traversée de sept montagnes. Serait-il un peu trop ambitieux ? Mes pensées tournent en boucle. Ce que je désire, c’est une immersion totale en pleine nature. Ça y est. Aujourd’hui, je déambulerai sur les sentiers, dans les montagnes ! J’aurai une aventure, un séjour dans la contrée sauvage.
 
@@ -31,7 +31,7 @@ Je porte à nouveau mon attention sur la route. Encore plusieurs fois le même r
 Il y a toujours quelque chose à propos de l’auto-stop qui me rend un peu seul. Il en a toujours été ainsi. Mais pourquoi ? Il y a quelques instants, j’étais en train de m’émerveiller aux spectacles de la nature, ressentant de la gratitude envers ma bonne fortune dans la vie. Mais quelques anonymes me dépassent sur la route et je me mets à me sentir isolé ? C’est du non-sens ! J’ai beau essayer d’éloigner ces sentiments, ils persistent. 
 
 <img src="https://davekobrenski.com/blog-photos/atlas-green-VGOiY1gZZYg-unsplash-2.jpg?raw=true" class="img-responsive">
-<span class="img-caption">Photo by <a href="https://unsplash.com/@atlas_green">Atlas Green</a> on Unsplash</span>
+<span class="img-caption">Photo by <a href="https://unsplash.com/@atlas_green" class="external">Atlas Green</a> on Unsplash</span>
 
 Je laisse vagabonder mes pensées. Elles se tournent, ensuite, vers mes amis : j’ai de la chance à cet égard. Certes, il est des rencontres qui vous inspirent, et il est des rencontres qui peuvent vous blesser. Mais pour le meilleur ou pour le pire, parmi mes amis et mes amoureuses à travers les années, chacun a laissé sa trace unique sur mon cœur. Je suis arrivé à croire que le cœur est comme l’argile malléable ; aimer, c’est permettre à d’autres de le modeler. Il arrive parfois que le cœur puisse se sentir blessé. Pourtant, il sera plus fort quand il guérira, chaque fois capable d’un amour plus profond. Au bout du compte, qu’est-ce qu’il y a de plus important dans la vie ? 
 
@@ -54,4 +54,4 @@ Quelques heures plus tard, au premier sommet, on se trouve loin au-dessus de la 
 J’ajuste mon sac à dos et commence à grimper la paroi nord, vers l’arête de la prochaine montagne. Il me reste encore de kilomètres à parcourir aujourd’hui. Je respire profondément, et pense encore une fois à la sérendipité. J’ai de la chance d’avoir une muse qui me veille. Je souris. Le temps guérit tout. Et j’ai tout mon temps.
 
 <img src="https://davekobrenski.com/blog-photos/vlad-tchompalov-C-J9RUbKnDg-unsplash-2.jpg?raw=true" class="img-responsive">
-<span class="img-caption">Photo by <a href="https://unsplash.com/@tchompalov">Vlad Tchompalov</a> on Unsplash</span>
+<span class="img-caption">Photo by <a href="https://unsplash.com/@tchompalov" class="external">Vlad Tchompalov</a> on Unsplash</span>
