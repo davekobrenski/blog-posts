@@ -24,14 +24,14 @@ Peu à peu, je pris conscience du bruit d’une voiture approchante. Je me retou
 
 Au fil de l’heure suivante, à chaque voiture qui m’approche, j’essaie de sourire, de paraître amical et jovial, tout ça pour les rassurer que je ne sois pas dangereux. Peut-être que je semble suspicieux ; suis-je trop souriant ? Comment transmettre le fait que je suis randonneur seulement, vivant une petite aventure, innocemment ? S’ils me déposaient quelque part plus loin sur la route, je partagerais une anecdote ou des renseignements ou même juste un peu de joie ; pour un petit temps, quelques inconnus se partageant une minuscule partie de leurs vies, et ce faisant, peut-être, ce serait possible de réaliser des découvertes inattendues, de la sérendipité.
 
-<img src="https://github.com/davekobrenski/blog-posts/blob/master/atlas-green-VGOiY1gZZYg-unsplash-2.jpg?raw=true" class="img-responsive">
-<span class="img-caption">Photo by <a href="https://unsplash.com/@atlas_green">Atlas Green</a> on Unsplash</span>
-
 Une BMW aux vitres teintées me dépasse. Elle accélère en sortant du virage. Je ris doucement. Je me remets à penser : oui, la sérendipité, c’est un ange qui marchait maintes et maintes fois à mes côtés dans la vie, et elle m’a rendu ouvert sur le monde. Mais mon genre, ce n’est qu’une relique ? Moi, j’ai grandi en lisant les livres de Jack Kerouac, et je les ai pris à cœur. Quand j’étais jeune, je n’avais pas peur du tout. Je rêvais même à sauter sur les trains en tant qu’aventurier, en explorant la Frontière. Malheureusement, je suis né un demi-siècle trop tard, au moins. Au fil de temps, mon monde est devenu de plus en plus délimité. Je me suis retrouvé dans le besoin de courir après d’autres endroits plus exotiques. C’était toujours l’aventure que je cherchais.
 
 Je porte à nouveau mon attention sur la route. Encore plusieurs fois le même résultat : les véhicules qui passent ne ralentissent pas. Je crains que le monde ait trop changé depuis les jours de ma jeunesse. 
 
 Il y a toujours quelque chose à propos de l’auto-stop qui me rend un peu seul. Il en a toujours été ainsi. Mais pourquoi ? Il y a quelques instants, j’étais en train de m’émerveiller aux spectacles de la nature, ressentant de la gratitude envers ma bonne fortune dans la vie. Mais quelques anonymes me dépassent sur la route et je me mets à me sentir isolé ? C’est du non-sens ! J’ai beau essayer d’éloigner ces sentiments, ils persistent. 
+
+<img src="https://github.com/davekobrenski/blog-posts/blob/master/atlas-green-VGOiY1gZZYg-unsplash-2.jpg?raw=true" class="img-responsive">
+<span class="img-caption">Photo by <a href="https://unsplash.com/@atlas_green">Atlas Green</a> on Unsplash</span>
 
 Je laisse vagabonder mes pensées. Elles se tournent, ensuite, vers mes amis : j’ai de la chance à cet égard. Certes, il est des rencontres qui vous inspirent, et il est des rencontres qui peuvent vous blesser. Mais pour le meilleur ou pour le pire, parmi mes amis et mes amoureuses à travers les années, chacun a laissé sa trace unique sur mon cœur. Je suis arrivé à croire que le cœur est comme l’argile malléable ; aimer, c’est permettre à d’autres de le modeler. Il arrive parfois que le cœur puisse se sentir blessé. Pourtant, il sera plus fort quand il guérira, chaque fois capable d’un amour plus profond. Au bout du compte, qu’est-ce qu’il y a de plus important dans la vie ? 
 
@@ -52,3 +52,6 @@ Ensemble, nous partons ainsi pour la montagne, tout en bavardant de tout et rien
 Quelques heures plus tard, au premier sommet, on se trouve loin au-dessus de la vallée, parmi le bourdonnement du vent et le bruissement doux des feuilles. Là, on se dit adieu. Ma voie me conduira plus loin.
 
 J’ajuste mon sac à dos et commence à grimper la paroi nord, vers l’arête de la prochaine montagne. Il me reste encore de kilomètres à parcourir aujourd’hui. Je respire profondément, et pense encore une fois à la sérendipité. J’ai de la chance d’avoir une muse qui me veille. Je souris. Le temps guérit tout. Et j’ai tout mon temps.
+
+<img src="https://github.com/davekobrenski/blog-posts/blob/master/vlad-tchompalov-C-J9RUbKnDg-unsplash-2.jpg?raw=true" class="img-responsive">
+<span class="img-caption">Photo by <a href="https://unsplash.com/@tchompalov">Vlad Tchompalov</a> on Unsplash</span>
