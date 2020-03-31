@@ -35,9 +35,9 @@ Il y a toujours quelque chose à propos de l’auto-stop qui me rend un peu seul
 
 Je laisse vagabonder mes pensées. Elles se tournent, ensuite, vers mes amis : j’ai de la chance à cet égard. Certes, il est des rencontres qui vous inspirent, et il est des rencontres qui peuvent vous blesser. Mais pour le meilleur ou pour le pire, parmi mes amis et mes amoureuses à travers les années, chacun a laissé sa trace unique sur mon cœur. Je suis arrivé à croire que le cœur est comme l’argile malléable ; aimer, c’est permettre à d’autres de le modeler. Il arrive parfois que le cœur puisse se sentir blessé. Pourtant, il sera plus fort quand il guérira, chaque fois capable d’un amour plus profond. Au bout du compte, qu’est-ce qu’il y a de plus important dans la vie ? 
 
-« *Aimer c’est ce qu’y a de plus beau.  
+<div markdown="1" style="text-align:center;font-size:1.1em">« *Aimer c’est ce qu’y a de plus beau.  
 Aimer c’est monter si haut.  
-Et toucher les ailes des oiseaux...* »
+Et toucher les ailes des oiseaux...* »</div>
 
 Je suis le fil des rêveries. Une image émerge spontanément dans mon esprit : c’est l’image de mon chien qui est mort il y a des années. Celle qui avait été ma camarade constante durant ces marches en montagne, qui avait été un pote infaillible. Je me souviens comment j’avais versé un flot de larmes après sa mort tragique. La chaleur et la joie de notre foyer se sont éteintes. Ce souvenir triste, à son tour, me renvoie à mon ancienne copine. Nous avons enterré ce chien ensemble, sous le grand arbre qui dominait le champ derrière notre maison. Après, j’y allais quotidiennement pendant l’année qui a suivi, jusqu’au jour où il nous a fallu lâcher prise de la maison. Nous avons dit au revoir à la vieille ferme, tout en regardant comment l’agent immobilier a enfoncé les clous dans la pancarte qui indiquait « saisie ». L’économie avait sombré. Nous avons senti chaque clou au cœur. Les trombes d’eau qui tombaient du ciel ce jour-là ont caché nos propres torrents de larmes.
 
