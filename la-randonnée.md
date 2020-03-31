@@ -35,7 +35,7 @@ Il y a toujours quelque chose à propos de l’auto-stop qui me rend un peu seul
 
 Je laisse vagabonder mes pensées. Elles se tournent, ensuite, vers mes amis : j’ai de la chance à cet égard. Certes, il est des rencontres qui vous inspirent, et il est des rencontres qui peuvent vous blesser. Mais pour le meilleur ou pour le pire, parmi mes amis et mes amoureuses à travers les années, chacun a laissé sa trace unique sur mon cœur. Je suis arrivé à croire que le cœur est comme l’argile malléable ; aimer, c’est permettre à d’autres de le modeler. Il arrive parfois que le cœur puisse se sentir blessé. Pourtant, il sera plus fort quand il guérira, chaque fois capable d’un amour plus profond. Au bout du compte, qu’est-ce qu’il y a de plus important dans la vie ? 
 
-<div markdown="1" style="text-align:center;font-size:1.1em;margin-bottom:14px">« *Aimer c’est ce qu’y a de plus beau.  
+<div markdown="1" style="text-align:center;font-size:1.1em;margin-bottom:18px">« *Aimer c’est ce qu’y a de plus beau.  
 Aimer c’est monter si haut.  
 Et toucher les ailes des oiseaux...* »</div>
 
